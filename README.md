@@ -1,4 +1,5 @@
-# Content: Supervised Learning - Machine Learning Engineer Nanodegree
+# Content: Supervised Learning
+Udacity - Machine Learning Engineer Nanodegree | Nathaniel Watkins
 ## Project: Finding Donors for CharityML
 
 ### Final Report
