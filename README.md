@@ -1,6 +1,14 @@
-# Machine Learning Engineer Nanodegree
-# Supervised Learning
+# Content: Supervised Learning - Machine Learning Engineer Nanodegree
 ## Project: Finding Donors for CharityML
+
+### Final Report
+* To see my work and results, open: 
+[report.html](http://htmlpreview.github.com/?https://github.com/TheNathanielWatkins/finding_donors/blob/master/report.html)
+
+### Project Rubric
+* [https://review.udacity.com/#!/rubrics/406/view](https://review.udacity.com/#!/rubrics/406/view)
+
+-------
 
 ### Install
 
